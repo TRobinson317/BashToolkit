@@ -1,6 +1,6 @@
 # Bash Toolkit
 
-The **Bash Toolkit** is a versatile collection of scripts designed for enterprise-level usage, allowing you to perform various tasks efficiently. It can be seamlessly integrated into a cloud environment, making it a valuable addition to your workflow.
+The **Bash Toolkit** is a versatile collection of scripts crafted into one that's designed for enterprise-level usage, allowing you to perform various tasks efficiently. It can be seamlessly integrated into a cloud environment, making it a valuable addition to your workflow.
 
 ## Usage
 
