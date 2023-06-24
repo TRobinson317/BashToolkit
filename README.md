@@ -4,7 +4,7 @@ The **BashToolkit** is a versatile collection of scripts crafted into one that's
 
 ## Usage
 
-To use the Bash Toolkit, follow the steps below:
+To use the BashToolkit, follow the steps below:
 
 1. Clone the repository: git clone [repository_url]
 
